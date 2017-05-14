@@ -31,7 +31,8 @@ class Utility {
 			}
 			//Below statement is adding at the end of final string.
 			
-			finalOrderDetails.insert(finalOrderDetails.length(), endStr);
+		
+			finalOrderDetails.append(endStr);
 
 		}else{
 			return orderDetails;
