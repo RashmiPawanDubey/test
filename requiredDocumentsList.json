@@ -1,0 +1,176 @@
+{  
+   "defaultDocumentsList":[  
+      {  
+         "fileSection":"idDoc",
+         "label":"ID Document",
+         "documentTitle":"ID Document",
+         "name":"idDocfile",
+         "modelval":"idDocfile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":true,
+         "calloutText":"Please ensure the copy of your ID clearly shows your photo and ID number."
+      },
+      {  
+         "fileSection":"PoR",
+         "label":"Proof of residence",
+         "documentTitle":"Proof of residence",
+         "name":"proofOfResfile",
+         "modelval":"proofOfResfile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":true,
+         "calloutText":"For example: a municipality statement, a lease or rental agreement, a Telkom or cell phone statement. Statements must be less than 3 months old."
+      }
+   ],
+   "excaDocList":[  
+      {  
+         "fileSection":"idDoc",
+         "label":"ID Document",
+         "documentTitle":"ID document, (If have a Smart ID card, please include both sides of your ID card)",
+         "documentSubTitle":"(If have a Smart ID card, please include both sides of your ID card)",
+         "name":"idDocfile",
+         "modelval":"idDocfile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":true,
+         "calloutText":"Please ensure the copy of your ID clearly shows your photo and ID number."
+      },
+      {  
+         "fileSection":"PoR",
+         "label":"Proof of residence",
+         "documentTitle":"Proof of residence",
+         "documentSubTitle":"",
+         "name":"proofOfResfile",
+         "modelval":"proofOfResfile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":true,
+         "calloutText":"For example: a municipality statement, a lease or rental agreement, a Telkom or cell phone statement. Statements must be less than 3 months old."
+      }
+   ],
+   "studentAcntDocsList":[  
+      {  
+         "fileSection":"PoReg",
+         "label":"Proof of registration",
+         "documentTitle":"Proof of registration from your tertiary institution",
+         "name":"StdPoRfile",
+         "modelval":"StdPoRfile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":true,
+         "calloutText":"A copy of your registration document from your tertiary institution"
+      }
+   ],
+   "graduateAccDocsList":[  
+      {  
+         "fileSection":"qualificationDoc",
+         "label":"Proof of qualification",
+         "documentTitle":"Proof of qualification  (A copy of your diploma, certificate or degree)",
+         "name":"qualificationDocfile",
+         "modelval":"qualificationDocfile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":true,
+         "calloutText":"A copy of your diploma, certificate or degree"
+      }
+   ],
+   "ODDocsList":[  
+      {  
+         "fileSection":"paySlips",
+         "label":"Latest payslip",
+         "documentTitle":"Latest payslip",
+         "name":"paySlipsfile",
+         "modelval":"paySlipsfile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":false,
+         "calloutText":""
+      },
+      {  
+         "fileSection":"bankState",
+         "label":"Bank statements - last 3 months",
+         "documentTitle":"Bank statements - last 3 months",
+         "name":"bankStatefile",
+         "modelval":"bankStatefile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":false,
+         "calloutText":""
+      }
+   ],
+   "hleDocumentsList":[  
+      {  
+         "fileSection":"idDoc",
+         "label":"A valid South African ID number",
+         "documentTitle":"A valid South African ID number",
+         "name":"idDocfile",
+         "modelval":"idDocfile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":true,
+         "calloutText":"Please ensure the copy of your ID clearly shows your photo and ID number."
+      },
+      {  
+         "fileSection":"monthIncomeExpense",
+         "label":"Monthly income and expenses",
+         "documentTitle":"Monthly income and expenses",
+         "name":"monthIncomeExpensefile",
+         "modelval":"monthIncomeExpensefile",
+         "error":{  
+            "sizeError":false,
+            "patternError":false
+         },
+         "documentSubmitted":false,
+         "fileSize":"",
+         "fileName":"Drag file here",
+         "showCallout":true,
+         "calloutText":""
+      }
+   ]
+}
